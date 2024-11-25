@@ -1,0 +1,53 @@
+
+body {
+	background: black;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding: 5%;
+}
+.instagram {
+    background-color: white;
+}
+.membrete {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+.fa-html5 {
+    font-size: 70px;
+}
+.fa-share {
+    font-size: 30px;
+    padding: 20px;
+}
+.name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.share {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imagen img { 
+    display: flex;
+    width: 100%;
+}
+.interacciones {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    padding-top: 15px;
+    font-size: 30px;
+}
+.likes {
+    padding: 10px;
+}
+.caption {
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
